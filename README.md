@@ -21,9 +21,8 @@ Este proyecto es increíble porque:
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Enlaces Útiles 🔗
-Documentación
-Sitio Web
-Repositorio en GitHub
+- Documentación
+- Repositorio en GitHub
 
 ```bash
 git clone [URL del Repositorio]
