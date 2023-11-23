@@ -1,0 +1,46 @@
+/* Reset de estilos para el cuerpo de la página */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Estilos para los títulos h1 */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Estilos para las listas ul */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para los elementos li */
+li {
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos adicionales para resaltar algunos elementos */
+li:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Estilos para centrar las listas */
+ul {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilos para los encabezados h1 dentro de las listas */
+ul h1 {
+    color: #555;
+    margin-bottom: 10px;
+}
